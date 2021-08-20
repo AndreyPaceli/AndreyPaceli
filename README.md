@@ -14,7 +14,7 @@
   <img align="center" alt="Andrey-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andrey-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andrey-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/ebfe0234887d44a3957009dbaa60d806.gif" align="right" width="125" height="125" border="0" alt="Andrey" /></a><br />
+  <!--<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/ebfe0234887d44a3957009dbaa60d806.gif" align="right" width="125" height="125" border="0" alt="Andrey" /></a><br />-->
     
 </div>
   </div>
